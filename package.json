@@ -1,0 +1,37 @@
+{
+  "name": "pactron-landingpage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.0.2",
+    "@phosphor-icons/react": "^2.0.15",
+    "framer-motion": "^10.16.16",
+    "gsap": "^3.12.4",
+    "lottie-react": "^2.4.0",
+    "lottie-web": "^5.12.2",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18",
+    "react-player": "^2.14.1",
+    "react-tilt": "^1.0.2",
+    "react-wavify": "^1.9.0",
+    "swiper": "^11.0.5",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.4",
+    "@types/react": "18.2.42",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
